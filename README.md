@@ -41,7 +41,7 @@ corr = main('asymmetry_sample.csv', ['G8328', 'C4996'], 'corr')
 
 ## How to Run
 
-Clone this repository.
-Ensure Python 3.x is installed.
-Run the script by providing the necessary inputs (csvfile, adults, and type).
+- Clone this repository.
+- Ensure Python 3.x is installed.
+- Run the script by providing the necessary inputs (csvfile, adults, and type).
 
