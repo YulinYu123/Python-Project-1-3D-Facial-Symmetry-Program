@@ -38,7 +38,8 @@ asym3D1, mn1, mx1, avg1, std1 = main('asymmetry_sample.csv', 'C4996', 'stats')
 # Correlation analysis between two adults
 corr = main('asymmetry_sample.csv', ['G8328', 'C4996'], 'corr')
 
-## How to Run:
+
+How to Run:
 Clone this repository.
 Ensure Python 3.x is installed.
 Run the script by providing the necessary inputs (csvfile, adults, and type).
