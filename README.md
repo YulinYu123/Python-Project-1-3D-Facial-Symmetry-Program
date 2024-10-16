@@ -1,4 +1,4 @@
-## Project Overview
+## Project Overview 
 
 In this project, the focus is on analyzing the 3D asymmetry of the upper and lower parts of faces. The program reads facial asymmetry data from a CSV file and performs either **statistical analysis** on a single adult's face or **correlation analysis** between two adults' facial asymmetry values.
 
@@ -37,9 +37,11 @@ asym3D1, mn1, mx1, avg1, std1 = main('asymmetry_sample.csv', 'C4996', 'stats')
 
 # Correlation analysis between two adults
 corr = main('asymmetry_sample.csv', ['G8328', 'C4996'], 'corr')
+```
 
+## How to Run
 
-How to Run:
 Clone this repository.
 Ensure Python 3.x is installed.
 Run the script by providing the necessary inputs (csvfile, adults, and type).
+
